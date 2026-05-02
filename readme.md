@@ -1,4 +1,4 @@
-# Apache JMeter Documentation (Intermediate Level)
+# Apache JMeter Documentation
 
 ## 1. Overview
 
